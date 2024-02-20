@@ -26,8 +26,7 @@ Before getting started with this test automation project, make sure you have the
 ## Overview
 
 This project aims to demonstrate test automation for The Internet, a sample website containing various web elements and scenarios commonly encountered in web application testing. The automation tests will be written in Java using the Selenium WebDriver and TestNG frameworks. The focus is on creating robust, maintainable, and readable test automation scripts.
-## Getting Started
-### Installation
+## Installation
 1. Clone this repository to your local machine:
 2. git clone https://github.com/mohamedelshwimy/TAU_TheInternetWebsite.git
 3. Open the project in your preferred Java IDE (e.g.,intellij, Eclipse).
