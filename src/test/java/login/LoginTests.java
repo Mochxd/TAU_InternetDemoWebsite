@@ -1,0 +1,18 @@
+package login;
+
+import base.BaseTests;
+import org.testng.annotations.Test;
+import pages.LoginPage;
+import pages.secureAreaPage;
+import static org.testng.Assert.assertTrue;
+
+public class LoginTests extends BaseTests {
+    @Test
+    public void testSuccessfulLogin(){
+        LoginPage loginPage = homePage.clickFormAuthentication();
+        loginPage.setName("tomsmith");
+        loginPage.setPassword("SuperSecretPassword!");
+        secureAreaPage secureAreaPage = loginPage.clickLoginButton();
+        assertTrue(secureAreaPage.getAlertText().contains("You logged into a secure area!"),"Alert text us incorrect");
+    }
+}
