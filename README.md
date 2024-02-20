@@ -1,4 +1,5 @@
 # Demo Website Test Automation (The-Internet) 
+![NonCommerceApp](https://github.com/Mochxd/TAU_InternetDemoWebsite/assets/122634626/ed4e29aa-5fb9-446a-b799-fcaf80ba480b)
 
 ## Introduction
 This README file provides documentation for the test automation project using Selenium WebDriver for the website The-Internet, following the guidelines from the Test Automation Course by Angie Jones.
