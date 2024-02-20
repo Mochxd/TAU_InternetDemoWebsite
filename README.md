@@ -5,6 +5,7 @@ This README file provides documentation for the test automation project using Se
 - Website URL: https://the-internet.herokuapp.com/
 
  ## Table of Contents
+- [Technologies Used](#Technologies-Used)
 - [Prerequisites](#Prerequisites)
 - [Overview](#Overview)
 - [Installation](Installation)
@@ -13,6 +14,8 @@ This README file provides documentation for the test automation project using Se
 - [Conclusion](#Conclusion)
 - [Contact](#Contact)
 
+##  Technologies Used
+<a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="40" height="40" alt="Selenium"/></a>
 ## Prerequisites
 
 Before getting started with this test automation project, make sure you have the following prerequisites in place:
