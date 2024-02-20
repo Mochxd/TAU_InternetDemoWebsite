@@ -16,6 +16,7 @@ This README file provides documentation for the test automation project using Se
 
 ##  Technologies Used
 <a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="40" height="40" alt="Selenium"/></a>
+<a href="https://testng.org/"><img src="https://github.com/Mochxd/TAU_InternetDemoWebsite/assets/122634626/86a31183-1950-4cf4-bbbe-c1c1d6dc2567" width="40" height="40" alt="TestNG"/></a>
 ## Prerequisites
 
 Before getting started with this test automation project, make sure you have the following prerequisites in place:
