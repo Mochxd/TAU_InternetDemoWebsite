@@ -28,7 +28,6 @@ Before getting started with this test automation project, make sure you have the
 - Extent Reports for enhanced reporting (optional).
 
 ## Overview
-
 This project aims to demonstrate test automation for The Internet, a sample website containing various web elements and scenarios commonly encountered in web application testing. The automation tests will be written in Java using the Selenium WebDriver and TestNG frameworks. The focus is on creating robust, maintainable, and readable test automation scripts.
 
 ## Installation
@@ -36,7 +35,7 @@ This project aims to demonstrate test automation for The Internet, a sample webs
 2. git clone https://github.com/Mochxd/TAU_InternetDemoWebsite.git
 3. Open the project in your preferred Java IDE (e.g.,intellij, Eclipse).
 4. Install the required dependencies (Selenium WebDriver, TestNG) using Maven. You can do this by right-clicking on the project and selecting "Maven" -> "Update Project."
-5. 
+
 ## Project Structure
 The project structure is organized as follows:
 - src/main/java: Contains classes and methods for every page.
