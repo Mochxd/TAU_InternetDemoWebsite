@@ -1,5 +1,4 @@
 # Demo Website Test Automation (The-Internet) 
-![NonCommerceApp](https://github.com/Mochxd/TAU_InternetDemoWebsite/assets/122634626/ed4e29aa-5fb9-446a-b799-fcaf80ba480b)
 
 ## Introduction
 This README file provides documentation for the test automation project using Selenium WebDriver for the website The-Internet, following the guidelines from the Test Automation Course by Angie Jones.
@@ -18,8 +17,6 @@ This README file provides documentation for the test automation project using Se
 ##  Technologies Used
 <a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="40" height="40" alt="Selenium"/></a>
 <a href="https://testng.org/"><img src="https://github.com/Mochxd/TAU_InternetDemoWebsite/assets/122634626/86a31183-1950-4cf4-bbbe-c1c1d6dc2567" width="40" height="40" alt="TestNG"/></a>
-<a href="https://allurereport.org/"><img src="![allurereport](https://github.com/Mochxd/TAU_InternetDemoWebsite/assets/122634626/eb860167-8b05-444e-bf2d-391e2d6aff6d)
-" width="40" height="40" alt="allurereport"/></a>
 
 ## Prerequisites
 Before getting started with this test automation project, make sure you have the following prerequisites in place:
